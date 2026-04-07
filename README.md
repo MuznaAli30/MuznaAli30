@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋 I'm Muzna Ali Siddiqui
 
-<!--
-**MuznaAli30/MuznaAli30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 MERN Stack Developer  
+🚀 Passionate about building responsive & scalable web applications  
+📍 Pakistan  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- HTML, CSS, Tailwind CSS  
+- JavaScript, React.js, Next.js  
+- Node.js, Express.js  
+- MongoDB  
+
+---
+
+## 📌 Projects
+- Parking Management System  
+- Cafe Website  
+- TODO App  
+- Real-Time Web Applications  
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/muzna-ali-siddiqui-226220282  
+- Email: (your email here)
+
+---
+
+⭐ Always learning new technologies and improving my skills
