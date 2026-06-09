@@ -1,50 +1,84 @@
-# Hi 👋 I'm Muzna Ali Siddiqui
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" /> I'm Muzna Ali Siddiqui Sabzwari
 
-💻 MERN Stack Developer  
-🚀 Building Responsive & Scalable Web Applications  
-📍 Karachi, Pakistan  
 
----
 
-## 👩‍💻 About Me
-I am a passionate MERN Stack Developer with hands-on experience in building responsive, scalable, and user-friendly web applications using React.js, Next.js, Tailwind CSS, Node.js, and MongoDB.
+## 👩‍💻I am
 
-I have developed full-stack projects, including authentication systems, REST APIs, CRUD applications, and modern UI designs. I also have internship experience where I collaborated with a team and deployed applications using GitHub and Vercel.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Next.js+Builder;AI+Explorer;MERN+Developer)
 
-Currently, I am exploring AI and Small Language Models (SLMs) to enhance my development skills.
+
+## 💻 Full Stack Developer  
+### Next.js • MERN • TypeScript • AI Integrations  
+📍 Karachi, Pakistan | 🚀 Open to Internships & Full-Time Roles  
 
 ---
 
-## 🛠 Tech Stack
-- Frontend: React.js, Next.js, Tailwind CSS  
-- Backend: Node.js, Express.js  
-- Database: MongoDB, MySQL  
-- Other: GitHub, Vercel, Firebase, Redux  
+<img src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programmer.gif" width="320" align="right" />
+
+---
+## 🚀 About Me  
+
+I am a Full Stack Developer who loves building modern, clean, and scalable web applications.
+
+I enjoy turning ideas into real products using code and creativity.
+
+- ⚡ Full Stack Web Development (Next.js + MERN)
+- 🤖 AI integrations using LLM APIs
+- 🎨 Clean and aesthetic UI/UX designs
+- 📦 Building SaaS-style applications
+
+💡 I turn coffee into code… and sometimes bugs 😄  
 
 ---
 
-## 🚀 Projects
-- Parking Management System (MERN + TypeScript)  
-- Campus Management System (Full Stack MERN)  
-- Reservation Website (Next.js + Tailwind)  
-- Lifetune Mobile App (React Native)  
-- Todo App (React + Redux + Firebase)  
+## 🛠 Tech Stack  
+
+### 🎨 Frontend  
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
+
+### ⚙️ Backend  
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+### 🗄️ Database  
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase" />
+
+### 🚀 Tools & Deployment  
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,postman,linux" />
 
 ---
 
-## 💼 Experience
-**Web Developer Intern – InApp Solutions**
-- Developed responsive web apps using React & Tailwind  
-- Built REST APIs using Node.js & Express  
-- Collaborated using GitHub  
-- Deployed apps on Vercel  
+## 💼 Experience  
+
+### 👩‍💻 Web Developer Intern — InApp Solutions  
+- Built responsive web applications using React & Tailwind  
+- Developed REST APIs using Node.js & Express  
+- Worked on MERN stack CRUD systems  
+- Deployed projects using GitHub & Vercel  
 
 ---
 
-## 📫 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/muzna-ali-siddiqui-226220282  
-- GitHub: https://github.com/MuznaAli30  
+## ✍️ Medium Blogs  
+
+I also write **Medium blogs** about:
+- My learning journey  
+- Web development projects  
+- AI experiments and tools  
+
+📌 I learn → I build → I write → I grow 😄  
 
 ---
 
-⭐ Always learning and building new things
+## 📫 Connect With Me  
+
+- 💻 GitHub: github.com/MuznaAli30  
+- 💼 LinkedIn: linkedin.com/in/muzna-ali-siddiqui-226220282  
+- 📧 Email: muznasabzwari@gmail.com  
+
+
+---
+
+## ⭐ Final Note  
+
+I believe in learning by building real-world projects.
+
+🚀 “Code. Break. Fix. Repeat.”
